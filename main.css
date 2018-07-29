@@ -1,0 +1,170 @@
+
+.container
+{
+width: 1140px;  
+margin: auto;
+}
+.body
+{
+  padding: 0px;
+  margin: 0px;
+  text-align: center
+}
+.body .nav 
+{
+    background-color: rgba(14, 6, 27, 0.87);
+    color: #ffffff;
+    padding-left: 165px;
+    padding-right: 165px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+.nav .logo
+{
+    float: left;
+    padding: 10px;
+    text-transform: uppercase;
+}
+ ul  
+{
+    list-style-type: none;
+    margin: 0;
+    padding-left:370px;
+    overflow: hidden;
+    text-transform: capitalize;
+}
+
+li a
+{
+    display:block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    float: left;
+    
+
+}
+ul li a:hover
+{
+    color:#6D39BA;
+    padding-top: auto;
+    padding-bottom: auto;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+.header
+{
+    height: 250px;
+    background: #050318bd;
+    
+    
+    
+    
+}
+.header .hh2
+{
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.img1
+{   
+width: 125px;
+height: 125px;
+padding-top:5px ;
+}
+p
+{
+    color: #ffffff;
+}
+.body1
+{
+    height: 370px;
+    background-color: #ffffff;
+    
+    
+}
+.body1 .hh
+{
+    color: #2D2638;
+    text-transform: uppercase;
+    
+}
+img
+{
+    width: 125px;
+    height: 125px;
+    padding:10px 20px;   
+}
+.about
+{
+    height: 250px;
+    background-color: #050318bd;
+    
+}
+.about .hh3
+{
+    text-transform: uppercase;
+    color: #ffffff; 
+    padding-top: 50px
+}
+.about .p1
+{
+    
+    text-align: center;
+    display: block;
+    padding: 0px 300px;
+    line-height: 20px
+}
+.contact 
+{
+    height: 590px;
+    padding: 0 200px
+    
+}
+.contact .hh4
+{
+    color: #2D2638;
+    text-transform: uppercase;
+}
+.input1 {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.submit {
+    width: 15%;
+    background-color: #6D39BA;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.submit:hover {
+    background-color: #6824cf;
+}
+
+.form1 {
+    border-radius: 5px;
+    padding: 20px;
+}
+.copyright
+{
+    background-color: #2D2638;
+    color: #ffffff;
+    height: 40px;
+}
+.copyright1
+{
+    padding-top: 10px
+}
